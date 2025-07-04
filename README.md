@@ -1,2 +1,2 @@
 # Currency-Converter-App
-A platform where we can convert the amount from one currency to another currency type. Where it gives a list of currency types to be converted.
+A sleek, responsive tool that converts amounts between global currencies using real-time exchange rates. Features include a dynamic currency selector, API integration, and optimized UI for seamless user experience.
